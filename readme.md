@@ -5,15 +5,21 @@ title : READ___ME___
 Note: _What's the reason I Made this??_
 
 ==MOTIVATION==
-Managing data across fragmented sources often requires complex setups and steep learning curves.
-This project was conceived to overcome these difficulties by providing a lightweight, intuitive, and highly extensible data pipeline engine.
+Managing data across fragmented sources often requires
+complex setups and steep learning curves.
+
+This project was conceived to overcome these difficulties
+by providing a lightweight, intuitive, and highly extensible data pipeline engine.
 
 So, **Why This Project?**
-Integrating data from disparate formats (Text, JSON, APIs) typically involves writing repetitive boilerplate code and struggling with rigid architectures.
-This engine addresses these challenges with a modular framework where adding new features is seamless and straightforward.
+Integrating data from disparate formats (Text, JSON, APIs)
+typically involves writing repetitive boilerplate code and struggling with rigid architectures.
+This engine addresses these challenges with a modular framework
+where adding new features is seamless and straightforward.
 
 _** InOtherWords**_
-A modular data pipeline engine designed to simplify the friction of fetching, transforming, and routing data from multiple sources.
+A modular data pipeline engine designed to simplify the friction of 
+fetching, transforming, and routing data from multiple sources.
 
 ### Key Features
 1. Multi-Source Data Ingestion (다중 소스 데이터 수집)
@@ -42,3 +48,4 @@ A modular data pipeline engine designed to simplify the friction of fetching, tr
 
 
 ##### RoadMaps
+TBA...
