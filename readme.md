@@ -5,7 +5,7 @@ title : READ___ME___
 Note: _What's the reason I Made this??_
 
 ==MOTIVATION==
-nManaging data across fragmented sources often requires complex setups and steep learning curves.
+Managing data across fragmented sources often requires complex setups and steep learning curves.
 This project was conceived to overcome these difficulties by providing a lightweight, intuitive, and highly extensible data pipeline engine.
 
 So, **Why This Project?**
